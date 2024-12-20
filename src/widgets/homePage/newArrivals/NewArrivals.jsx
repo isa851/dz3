@@ -6,7 +6,8 @@ export const NewArrivals = () => {
         <div className='arrivalsCont'>
             <div className='container'>
                 <h2>NEW ARRIVALS</h2>
-                <div>
+                <div className='flexItem'>
+                    <Card />
                     <Card />
                 </div>
             </div>
